@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header-area{
+    display: flex;
+}
+
+.portfolio-text {
+    width: 70%;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+
+.red-border{
+    border: 3px solid red;
+    
+}
+
+
+
+.portfolio-text .red-border h1 h2{
+    padding-left: 20px;
+    font-size: 100px;
+}
+
+.color-title{
+    color: green;
+}
+
+.portfolio-text p{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.btn-read-more{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    margin-top: 20px;
+    background-color: rgb(82, 5, 92);
+    padding:10px;
+    border-radius: 10px;
+}
+.portfolio-img img {
+    width: 350px;
+    margin-right: 150px;
+}
+
+#mission-2022{
+    text-align: center;
+    padding-top: 100px;
+   
+}
+
+#mission-2022 p{
+    padding: 10px;
+}
+
+.mission-heading h1{
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+
+.mission-area{
+    display: flex;
+    justify-content: space-around;
+}
+
+.image img{
+    width: 40%;
+    
+    
+}
+
+.mission {
+    width: 280px;
+    height:350px;
+    background-color: thistle;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
+}
+
+.vssion {
+    width: 280px;
+    height:350px;
+    background-color: thistle;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
+}
+
+.goals {
+    width: 280px;
+    height: 350px;
+    background-color: thistle;
+    box-shadow: 5px 5px 15px gray;
+    border-radius: 10px;
+}
+
+
+
+.develop-without-limits{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.develop-img img{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.paragraph-side{
+    margin-right: 15%;
+}
+
+.global-community{
+    display: flex;
+    margin-top: 100px;
+}
+
+.text-global{
+    width: 60%;
+    margin-left: 10%;
+
+}
+
+.image-global img{
+    width: 300px;
+}
+
+
+.updates{
+    display: flex;
+    margin-top: 100px;
+}
+
+.update-img img{
+    width: 60%;
+    margin-left: 30%;
+}
+
+.update-details{
+    width: 80%;
+   
+}
+
+
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.footer h2{
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
